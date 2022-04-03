@@ -1,6 +1,7 @@
 # [WIP] PH Linguistics Iceberg
 *A masterlist of misconceptions and information about Philippine Linguistics outside its realm formatted as an iceberg.*
 
+🇵🇭 [Filipino Learning and Discussion](https://discord.gg/mtYQvSYU7v)
 ## Important
 • [Philippine Languages or Dialects](https://github.com/NickEman132/PHLinguisticsIceberg#philippine-languages)
 
