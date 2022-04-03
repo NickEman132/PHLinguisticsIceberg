@@ -2,11 +2,11 @@
 *A masterlist of misconceptions and information about Philippine Linguistics outside its realm formatted as an iceberg.*
 
 ## Important
-• Philippine Languages or Dialects
+• [Philippine Languages or Dialects](https://github.com/NickEman132/PHLinguisticsIceberg#philippine-languages)
 
-• Tagalog or Filipino
+• [Tagalog or Filipino](https://github.com/NickEman132/PHLinguisticsIceberg#tagalog-or-filipino)
 
-• Prescriptivism and the Loathing of Nang/ng
+• [Prescriptivism](https://github.com/NickEman132/PHLinguisticsIceberg#prescriptivism) and the Loathing of Nang/ng
 
 ## Surface-level Information
 • "FSL is signed Filipino"
@@ -24,7 +24,11 @@
 ## Writing Systems (Baybayin, etc.)
 • 
 
+
+
+
 # Philippine Languages
 # Tagalog or Filipino
+# Prescriptivism
 
 ### Sources
