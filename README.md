@@ -5,19 +5,20 @@ Misconceptions and information about Philippine Linguistics formatted as an iceb
 • Philippine Languages or Dialects
 
 • Tagalog or Filipino
+• Prescriptivism and the Loathing of Nang/ng
 
-## Philippine Languages
-
-# Surface-level
-• "Loan words aren't [X] language"
-
+# Surface-level Information
 • "FSL is signed Filipino"
 
-• Baybayin
+• "Loan words aren't [X] language"
 
-# Grammar
+# Linguistic Analyses (Grammar)
 • Aspects, not tenses
 
-•
+# Writing Systems (Baybayin, etc.)
+• 
+
+## Philippine Languages
+## Tagalog or Filipino
 
 ### Sources
