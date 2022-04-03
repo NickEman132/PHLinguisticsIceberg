@@ -1,30 +1,30 @@
-# PHLinguisticsIceberg
-Misconceptions and information about Philippine Linguistics formatted as an iceberg.
+# [WIP] PH Linguistics Iceberg
+*A masterlist of misconceptions and information about Philippine Linguistics outside its realm formatted as an iceberg.*
 
-# Important
+## Important
 • Philippine Languages or Dialects
 
 • Tagalog or Filipino
 
 • Prescriptivism and the Loathing of Nang/ng
 
-# Surface-level Information
+## Surface-level Information
 • "FSL is signed Filipino"
 
 • "Loan words aren't [X] language"
 
 • The "Bisaya" Confusion
-# Read More
+## Read More
 • Chavacano
 
 
-# Linguistic Analyses (Grammar)
+## Linguistic Analyses (Grammar)
 • Aspects, not tenses
 
-# Writing Systems (Baybayin, etc.)
+## Writing Systems (Baybayin, etc.)
 • 
 
-## Philippine Languages
-## Tagalog or Filipino
+# Philippine Languages
+# Tagalog or Filipino
 
 ### Sources
